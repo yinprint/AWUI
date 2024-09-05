@@ -1,13 +1,14 @@
-这是仿照Android的UI组件制作的windows 整套桌面UI组件，使用MVC模式来实现桌面软件的UI开发
-可以用于Android的代码移植到windows的桌面软件
-也可以实现同一套代码开发，打包为原生的安卓代码，以及windows代码
-由于这是8年前开发的，框架还存在一些缺陷
+这是仿照Android的UI组件制作的windows 整套桌面UI组件，使用MVC模式来实现桌面软件的UI开发  
+可以用于Android的代码移植到windows的桌面软件  
+也可以实现同一套代码开发，打包为原生的安卓代码，以及windows代码  
+由于这是8年前开发的，框架还存在一些缺陷  
 
-同样实现了Activity的生命周期，各种控件配套的Listener，开发模式和原生的android开发非常相似
-下面是示例：
-![image](https://github.com/user-attachments/assets/5a278e0f-851c-4c35-9433-9852381ae75a)
-这也是八年前开发的安卓快速开发工具
-![image](https://github.com/user-attachments/assets/071d92d6-bacd-4c3e-968e-423e46e91f1f)
+
+同样实现了Activity的生命周期，各种控件配套的Listener，开发模式和原生的android开发非常相似    
+下面是示例：  
+![image](https://github.com/user-attachments/assets/5a278e0f-851c-4c35-9433-9852381ae75a)  
+这使用AWUI在八年前开发的安卓快速开发工具  ，常用代码一键复制，一件创建基础项目代码，组件包，图标库，封装的SDK包等
+![image](https://github.com/user-attachments/assets/071d92d6-bacd-4c3e-968e-423e46e91f1f)  
 
 开发步骤：
 1.定义MAin
