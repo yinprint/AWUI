@@ -9,13 +9,15 @@
 
 开发步骤：
 1.定义MAin
+```JAVA
 public class Main extends JFrame implements ActionListener, MouseListener {
 
     public static void   main(String[] args){
         new LoginActivity();
     }
-
+```
 2.组件的使用可以用findViewById，也可以直接调用
+```JAVA
 public class LoginActivity extends Activity {
     private LLshouye shouye;
     private LinearLayout Ltop;
@@ -42,3 +44,4 @@ public class LoginActivity extends Activity {
             }
 
         });
+```
