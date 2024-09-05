@@ -6,6 +6,8 @@
 同样实现了Activity的生命周期，各种控件配套的Listener，开发模式和原生的android开发非常相似
 下面是示例：
 ![image](https://github.com/user-attachments/assets/5a278e0f-851c-4c35-9433-9852381ae75a)
+这也是八年前开发的安卓快速开发工具
+![image](https://github.com/user-attachments/assets/071d92d6-bacd-4c3e-968e-423e46e91f1f)
 
 开发步骤：
 1.定义MAin
