@@ -9,6 +9,8 @@
 ![image](https://github.com/user-attachments/assets/5a278e0f-851c-4c35-9433-9852381ae75a)  
 这使用AWUI在八年前开发的安卓快速开发工具  ，常用代码一键复制，一件创建基础项目代码，组件包，图标库，封装的SDK包等
 ![image](https://github.com/user-attachments/assets/071d92d6-bacd-4c3e-968e-423e46e91f1f)  
+![image](https://github.com/user-attachments/assets/b35eb64e-b30d-4252-bd6e-c7692a63b323)
+
 
 开发步骤：
 1.定义MAin
